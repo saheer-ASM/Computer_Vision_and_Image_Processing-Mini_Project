@@ -1,4 +1,4 @@
-# Credit Card Approval Prediction (Streamlit)
+# Credit Card Approval Prediction 
 
 A Streamlit web app that predicts whether a credit application is likely to be approved based on applicant and banking attributes. The UI is implemented in `app.py` (NexaBank-themed), and the underlying model is trained in `Model.ipynb` and serialized to `model.pkl`.
 
